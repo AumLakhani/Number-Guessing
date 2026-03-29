@@ -20,7 +20,6 @@ The computer generates a random number between **1 and 100**, and the player has
 # 🛠️ Technologies Used
 
 * Python
-* `random` module
 
 ---
 
@@ -30,7 +29,7 @@ The computer generates a random number between **1 and 100**, and the player has
 ## 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/your-username/number-guessing-game.git
+git clone https://github.com/AumLakhani/number-guessing-game.git
 ```
 
 ## 2️⃣ Navigate to the project folder
